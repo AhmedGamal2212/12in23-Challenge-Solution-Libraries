@@ -1,6 +1,6 @@
 # Learning Elixir
 
-This repository is dedicated to my journey learning Elixir, a functional programming language. Here I will post my solutions to Exercism and LeetCode challenges, as well as other projects related to the Elixir language.
+This directory is dedicated to my journey learning Elixir, a functional programming language. Here I will post my solutions to Exercism and LeetCode challenges, as well as other projects related to the Elixir language.
 
 ## Exercism Solutions
 I will be posting my solutions to the Elixir Exercism exercises.
