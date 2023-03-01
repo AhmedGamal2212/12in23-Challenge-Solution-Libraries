@@ -1,6 +1,6 @@
 # 12in23 Challenge Solutions
 
-This repository contains my solutions to various exercises I encountered during my learning journey in 2023 for the 12in23 challenge offered by Exercism website. The challenge offers 12 different languages to learn in 12 months, each month with a special theme.
+This repository contains my solutions to various exercises I encountered during my learning journey in 2023 for the 12in23 challenge offered by Exercism website. The challenge offers 12 different programming languages to learn in 12 months, each month with a special theme.
 
 ## Themes and Languages
 
